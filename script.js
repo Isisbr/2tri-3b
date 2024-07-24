@@ -60,4 +60,4 @@ const perguntas = [
     }
 }
     
-    mostraPergunta()
+    mostraPergunta();
